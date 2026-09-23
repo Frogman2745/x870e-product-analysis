@@ -1,0 +1,5 @@
+brand,product,current_observed_price_usd,reference_price_usd,chipset,socket,max_memory_gb,advertised_ddr5_oc_mts,vcore_phases,m2_total,gen5_m2,usb4_ports,lan_ports,max_lan_gbps,wifi_7,diy_feature_count,ai_tuning_feature_count,captured_date
+ASUS ROG,Crosshair X870E Hero,599.99,599.99,X870E,AM5,256,8600,18,5,3,2,2,5,1,4,5,2026-09-22
+MSI,MPG X870E Carbon WiFi,389.99,429.99,X870E,AM5,256,8400,18,4,2,2,2,5,1,4,2,2026-09-22
+Gigabyte AORUS,X870E AORUS Master,499.00,549.99,X870E,AM5,256,8600,16,4,3,2,1,5,1,6,2,2026-09-22
+
