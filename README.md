@@ -28,9 +28,11 @@ Prices were captured on **September 22, 2026** and can change quickly. Refresh t
 - [Review normalized product data](data/product-data.csv)
 - [Review persona scores](data/persona-scores.csv)
 - [Review price-sensitivity scenarios](data/price-sensitivity.csv)
+- [Audit the decision claim register](data/claim-register.csv)
 - [Audit the source register](sources/sources.csv)
 - [Download the one-page executive brief](docs/x870e-executive-brief-v1.pdf)
 - [Read the executive-brief notes](docs/executive-brief.md)
+- [Read the evidence-ledger guide](docs/evidence-ledger.md)
 
 ## Model scope
 
@@ -66,8 +68,8 @@ This is a **positioning model**, not a laboratory benchmark, reliability ranking
 
 ## Version
 
-**v1.1 — September 25, 2026**
+**v1.2 — September 25, 2026**
 
-The underlying workbook remains v1 with data captured September 22, 2026. Version 1.1 adds the recruiter-facing executive brief and interactive web Decision Lab without changing the source dataset.
+The underlying workbook remains v1 with data captured September 22, 2026. Version 1.2 adds the recruiter-facing executive brief, interactive web Decision Lab, and an eight-claim evidence ledger without changing the source dataset.
 
 Built by [Nicholas Marnocha / Froghaus Studios](https://froghausstudios.com/).
